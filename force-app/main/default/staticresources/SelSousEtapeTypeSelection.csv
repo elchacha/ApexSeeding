@@ -1,0 +1,6 @@
+"ExternalId__c","debut__c","fin__c","Obligatoire__c","Ordre__c","SelRefSousEtape__r.code__c","SelEtapeTypeSelection__r.Name"
+"SE-000007","2024-05-27T12:18:21.000+0000","2999-12-31T12:00:00.000+0000","true","8","MiseEnEcole","Incorporation"
+"SE-000009","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","true","1","Résultats","Phase d'admissibilité"
+"SE-000011","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","true","5","Résultats","Phase d'admission"
+"SE-000012","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","true","3","TBD2","VMP"
+"SE-000013","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","true","2","MajAptitude","VMP"

@@ -1,0 +1,6 @@
+"Name","Debut__c","Fin__c","Ordre__c","Obligatoire__c","SelRefEtape__r.code__c","SelVersionStructure__r.ExternalId__c"
+"Inscription","2024-05-27T12:18:21.000+0000","2999-12-31T12:00:00.000+0000","1","true","inscription","VS-00000"
+"Incorporation","2024-05-27T12:18:21.000+0000","2999-12-31T12:00:00.000+0000","8","false","incorporation","VS-00000"
+"Phase d'admissibilité","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","2","false","epreuve","VS-00000"
+"Phase d'admission","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","3","false","epreuve","VS-00000"
+"VMP","2024-05-27T12:18:56.000+0000","2999-12-31T12:00:00.000+0000","4","false","visiteMedicale","VS-00000"

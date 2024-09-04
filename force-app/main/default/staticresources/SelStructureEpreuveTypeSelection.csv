@@ -1,0 +1,3 @@
+"Name","debut__c","fin__c","note_max__c","note_min__c","sous_etape_type_selection_id__r.ExternalId__c","coefficient__c"
+"Epreuve à option sans option","2024-05-27T12:20:53.000+0000","2999-12-31T12:00:00.000+0000","null","null","SE-000011","12"
+"Toujours pas à option","2024-05-27T12:21:13.000+0000","2999-12-31T12:00:00.000+0000","null","null","SE-000012","5"
